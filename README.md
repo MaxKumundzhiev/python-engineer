@@ -8,7 +8,7 @@
 
 - Creator of the [Python Engineer][youtube] YouTube channel 
 - I create free educational content about Python and Machine Learning
-- On my channel you find complete FREE courses about Python, PyTorch, TensorFlow, and much more.
+- On my channel you find complete FREE courses about Python, PyTorch, TensorFlow, and much more
 - I also post articles on my [Website][website]
 - If you want to connet with more Python and ML enthusiasts you can join my [Discord server][discord]
 - For most tutorials the corresponding code is here on GitHub
@@ -63,4 +63,4 @@ You can show support by starring my repos, liking and sharing my videos, and [su
 
 If you really, really, really enjoy my work, you can also support me on [Patreon](https://www.patreon.com/patrickloeber).
 
-Thank you all so much 🙏!
+Thank you all so much 🙏
