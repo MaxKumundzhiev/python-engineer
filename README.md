@@ -13,13 +13,13 @@
 - If you want to connet with more Python and ML enthusiasts you can join my [Discord server][discord]
 - For most tutorials the corresponding code is here on GitHub
 
-If you enjoy my content, I would be very happy if you [subscribe](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA?sub_confirmation=1) to my channel 😊.
+If you enjoy my content, I would be very happy if you [subscribe](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA?sub_confirmation=1) to my channel 😊
 
 ---
 
 ## Popular YouTube Videos 📺 
 
-- [Intermediate Python Course](hhttps://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
+- [Intermediate Python Course](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
 - [PyTorch Course](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
 - [ML From Scratch Course](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
 - [Chatbot With PyTorch](https://www.youtube.com/playlist?list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg)
